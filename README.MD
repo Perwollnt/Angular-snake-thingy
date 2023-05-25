@@ -35,7 +35,7 @@ HamiltonianCylce#hamCycleThree
  * They all do the same except:
  * hamCycle returns graph numbers,
  * hamCycleTwo returns coordinates on the 2d array
- * hamCycleThree will be used with a worker and some other magic to calculate the path on another thread.
+ * hamCycleThree will be used with a worker and some other magic to calculate the path on another thread. (TODO!!)
  */
 ```
 
